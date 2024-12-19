@@ -34,7 +34,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
   <strong>Thesis:</strong> Computational Study of 2D Jellyfish with the Immersed Boundary Method<br>
   <em>Advisor: Dr. John M. Stockie</em></p>
 
-  <h3 style="font-size: 1em; font-weight: bold;">BSc. in Computer Science</h3>
+  <h3 style="font-weight: bold;">BSc. in Computer Science</h3>
   <p><strong>Amirkabir University of Technology, Tehran, Iran</strong> (2015 – 2019)<br>
   <strong>Project:</strong> Cardinality Optimization: Focusing on Cardinality Constrained Problems<br>
   <em>Advisor: Dr. S. A. Mirhassani</em></p>
