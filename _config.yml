@@ -2,11 +2,6 @@ title: "Mahdi Salehzadeh"
 theme: minima
 
 email: "mahdi_salehzadeh@sfu.ca"
-    
-social_links:
-  - platform: linkedin
-    title: "LinkedIn"
-    user_url: "https://www.linkedin.com/in/mahdi-salehzadeh-845478141/"
      
 # Navigation Links
 nav_links:
@@ -18,3 +13,11 @@ nav_links:
     url: "/Publications/"
   - name: "Talks"
     url: "/Talks/"
+
+ # Generate social links in footer.
+social_links:
+  - { platform: github,         user_url: "https://github.com/msalehzadeh" }
+  - { platform: google_scholar, user_url: "https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" }
+  - { platform: linkedin,       user_url: "https://www.linkedin.com/in/mahdi-salehzadeh-845478141/" }
+ 
+  
