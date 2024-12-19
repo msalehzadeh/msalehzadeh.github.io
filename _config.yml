@@ -1,10 +1,10 @@
 title: "Mahdi Salehzadeh"
 theme: minima
+style: custom
 
 sass:
   load_paths:
     - _sass
-style: custom
 
 email: "mahdi_salehzadeh@sfu.ca"
     
