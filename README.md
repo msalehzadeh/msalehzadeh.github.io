@@ -4,7 +4,7 @@
 
 <div style="flex: 1; margin-right: 20px;">
   
-Welcome to my corner of the internet! I'm currently immersed in the world of academia as a Ph.D. student in the Mathematics Department at Simon Fraser University. Under the guidance of esteemed advisors, <a href="https://www.sfu.ca/~jstockie/" target="_blank" style="text-decoration: none; color: #0073e6;">Dr. John Stockie</a> and <a href="https://amacp.github.io" target="_blank" style="text-decoration: none; color: #0073e6;">Dr. Ailene MacPherson</a>, I'm passionately delving into research that bridges the realms of epidemiology, eco-evolutionary dynamics, and theoretical biology.
+Welcome to my corner of the internet! I'm currently immersed in the world of academia as a Ph.D. student in the Mathematics Department at Simon Fraser University. Under the guidance of esteemed advisors, <a href="https://www.sfu.ca/~jstockie/" target="_blank" style="text-decoration: none; color: #0073e6;">Dr. John Stockie</a> and <a href="https://amacp.github.io" target="_blank" style="text-decoration: none; color: #0073e6;">Dr. Ailene MacPherson</a>, I'm passionately delving into research at the intersection of epidemiology, evolutionary ecology, and theoretical biology, with a focus on applying evolutionary ecology principles to better understand bark beetle outbreaks and seed masting dynamics.
 
 </div>
 
@@ -12,7 +12,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 <img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 250px; margin-bottom: 20px;"><br>
 <a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #0073e6;">Google Scholar Page</a><br>
 <div style="margin-top: 10px;">
-<a href="CV.pdf" target="_blank" style="text-decoration: none; color: #0073e6;">Academic CV</a>
+<a href="CV.pdf" target="_blank" style="text-decoration: none; color: #9999FF;">Academic CV</a>
 </div>
 </div>
 
@@ -22,7 +22,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 
 ### **Ph.D. in Applied Mathematics**
 Simon Fraser University, BC, Canada (2023 – Present)  
-Eco-evolutionation applied to bark beetle outbreaks and seed masting  
+Evolutionary ecology applied to bark beetle outbreaks and seed masting  
 *Advisors: Dr. A. MacPherson & Dr. John M. Stockie*
 
 ### **MSc. in Applied Mathematics**
