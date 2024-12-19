@@ -3,7 +3,7 @@ author:
   name: "Mahdi Salehzadeh"
   email: "mahdi_salehzadeh@sfu.ca"
   
-remote_theme: jekyll/minima
+theme: minima
 
 plugins:
   - jekyll-feed
