@@ -12,8 +12,7 @@ My journey in academia began with a thirst for knowledge, leading me to pursue a
 
 <div style="text-align: center;">
 <img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 300px;">
-  
-[**Google Scholar Page**]([https://scholar.google.com](https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en))
+<a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank" style="text-decoration: none; font-weight: bold; color: #0073e6;">Google Scholar Page</a>
 </div>
 
 </div>
