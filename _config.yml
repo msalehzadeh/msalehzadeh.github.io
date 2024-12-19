@@ -1,10 +1,9 @@
 title: "Mahdi Salehzadeh"
 theme: minima
 
-email: "mahdi_salehzadeh[at]sfu[dot]ca"
+email: "mahdi_salehzadeh@sfu.ca"
     
-minima:
-  social_links:
+social_links:
     - platform: linkedin
       title: "LinkedIn"
       user_url: "https://www.linkedin.com/in/mahdi-salehzadeh-845478141/"
