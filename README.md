@@ -25,13 +25,12 @@ Simon Fraser University, BC, Canada (2023 – Present)
 Evolutionary ecology applied to bark beetle outbreaks and seed masting
 Advisor: Ailene MacPherson, John M. Stockie
 
-**<h3>MSc. in Applied Mathematics</h3>**
+**<h3> MSc. in Applied Mathematics </h3>**
 Simon Fraser University, BC, Canada (2021 – 2022)  
 Thesis: Computational Study of 2D Jellyfish with the Immersed Boundary Method  
 Advisor: John M. Stockie
 
-**<h3>BSc. in Computer Science</h3>** 
+**<h3> BSc. in Computer Science </h3>** 
 Amirkabir University of Technology, Tehran, Iran (2015 – 2019)  
 Project: Cardinality Optimization (Cardinality Constrained Problems)
-
 Advisor: S. A. Mirhassani 
