@@ -4,7 +4,7 @@ title: About Me
 permalink: /README/
 ---
 
-### About Me
+## About Me
 
 <div style="display: flex; align-items: center; justify-content: space-between; align-items: flex-start;">
 
@@ -26,7 +26,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 
 ---
 
-### Education
+## Education
 
 ### Ph.D. in Applied Mathematics  
 **Simon Fraser University, BC, Canada** (2023 – Present)  
