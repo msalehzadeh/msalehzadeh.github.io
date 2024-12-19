@@ -4,7 +4,11 @@ author:
   email: "mahdi_salehzadeh@sfu.ca"
   
 remote_theme: jekyll/minima
-     
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  
 # Navigation Links
 nav_links:
   - name: "Projects"
