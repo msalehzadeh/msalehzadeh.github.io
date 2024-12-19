@@ -37,5 +37,5 @@ The site is built using:
 To clone this repository and run it locally:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mzurel/mzurel.github.io.git
+   git clone https://github.com/msalehzadeh.github.io.git
 
