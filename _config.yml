@@ -4,8 +4,6 @@ theme: minima
 sass:
   load_paths:
     - _sass
-    
-theme: minima
 style: custom
 
 email: "mahdi_salehzadeh@sfu.ca"
