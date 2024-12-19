@@ -2,10 +2,6 @@ title: "Mahdi Salehzadeh"
 theme: minima
 style: custom
 
-sass:
-  load_paths:
-    - _sass
-
 email: "mahdi_salehzadeh@sfu.ca"
     
 social_links:
