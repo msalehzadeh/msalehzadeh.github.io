@@ -4,8 +4,10 @@
 
 <div style="flex: 1; margin-right: 20px;">
   
-Welcome to my corner of the internet! I'm currently immersed in the world of academia as a Ph.D. student in the Mathematics Department at Simon Fraser University. Under the guidance of esteemed advisors, <a href="https://www.sfu.ca/~jstockie/" target="_blank" style="text-decoration: none; color: #009999;">Dr. John Stockie</a> and <a href="https://amacp.github.io" target="_blank" style="text-decoration: none; color: #0073e6;">Dr. Ailene MacPherson</a>, I'm passionately delving into research at the intersection of epidemiology, evolutionary ecology, and theoretical biology, with a focus on applying evolutionary ecology principles to better understand bark beetle outbreaks and seed masting dynamics.
-
+Welcome to my corner of the internet! I'm currently immersed in the world of academia as a Ph.D. student in the Mathematics Department at Simon Fraser University. Under the guidance of esteemed advisors, <a href="https://www.sfu.ca/~jstockie/" target="_blank" style="text-decoration: none; color: #009999;">Dr. John Stockie</a> and <a href="https://amacp.github.io" target="_blank" style="text-decoration: none; color: #009999;">Dr. Ailene MacPherson</a>, I'm passionately delving into research at the intersection of epidemiology, evolutionary ecology, and theoretical biology, with a focus on applying evolutionary ecology principles to better understand bark beetle outbreaks and seed masting dynamics.<br>
+<a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #009999;">Google Scholar Page</a><br>
+<div style="margin-top: 10px;">
+<a href="CV.pdf" target="_blank" style="text-decoration: none; color: #009999;">Academic CV</a>
 </div>
 
 <div style="text-align: center; flex: 0 0 230px;">
