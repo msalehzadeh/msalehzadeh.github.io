@@ -1,8 +1,3 @@
----
-layout: default
-title: Talks
-permalink: /talks/
----
 # Talks
 
 A list of my talks and presentations:
