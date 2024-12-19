@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Talk
-permalink: /talk/
+title: Talks
+permalink: /talks/
 ---
 
 A list of my talks and presentations:
