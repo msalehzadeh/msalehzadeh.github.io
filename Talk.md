@@ -1,4 +1,8 @@
-# Talks
+---
+layout: default
+title: Talk
+permalink: /talk/
+---
 
 A list of my talks and presentations:
 - **Conference Name, 2024**: Talk Title.
