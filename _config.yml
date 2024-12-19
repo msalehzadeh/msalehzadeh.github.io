@@ -8,17 +8,23 @@ remote_theme: jekyll/minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+
+header_pages:
+  - Projects.md
+  - ShortCV.md
+  - Publications.md 
+  - Talks.md
   
 # Navigation Links
-nav_links:
-  - name: "Projects"
-    url: "/Projects/"
-  - name: "Short CV"
-    url: "/ShortCV/"
-  - name: "Publications"
-    url: "/Publications/"
-  - name: "Talks"
-    url: "/Talks/"
+# nav_links:
+#   - name: "Projects"
+#     url: "/Projects/"
+#   - name: "Short CV"
+#     url: "/ShortCV/"
+#   - name: "Publications"
+#     url: "/Publications/"
+#   - name: "Talks"
+#     url: "/Talks/"
 
  # Generate social links in footer.
 social_links:
