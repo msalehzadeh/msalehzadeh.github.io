@@ -1,7 +1,10 @@
 title: "Mahdi Salehzadeh"
 
-remote_theme: jekyll/minima
+theme: minima
 
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
   
 email: "mahdi_salehzadeh@sfu.ca"
      
