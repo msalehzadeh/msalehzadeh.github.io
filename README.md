@@ -16,9 +16,8 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
  <img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 250px; margin-bottom: 20px;">
  </div>
 
- </div>
+ </div><br>
 
-<br>
 ---
 <br>
 
