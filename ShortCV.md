@@ -4,9 +4,9 @@ title: Short CV
 permalink: /Short CV/
 ---
 
-**Short CV**
+## Short CV
 
-## Education
+### Education
 
 ### Ph.D. in Applied Mathematics  
 **Simon Fraser University, BC, Canada** (2023 – Present)  
@@ -25,7 +25,7 @@ permalink: /Short CV/
 
 ---
 
-## Teaching
+### Teaching
 
 - **Numerical Analysis (MACM 316)**  
   Teaching Assistant, SFU (2024, 2023, 2021)
@@ -44,7 +44,7 @@ permalink: /Short CV/
 
 ---
 
-## Honors & Ranking
+### Honors & Ranking
 
 - **1st Poster Presentation Award**  
   SIAM PNW (2023)
