@@ -1,3 +1,6 @@
+baseurl: "/msalehzadeh" # Replace 'your-repo' with the repository name
+url: "https://msalehzadeh.github.io" # Replace 'yourusername' with your GitHub username
+
 title: "Mahdi Salehzadeh"
 theme: minima
 
