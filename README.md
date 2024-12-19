@@ -19,3 +19,20 @@ My journey in academia began with a thirst for knowledge, leading me to pursue a
 </div>
 
 </div>
+
+## Education
+
+### Ph.D. in Applied Mathematics  
+**Simon Fraser University, BC, Canada** (2023 – Present)  
+**Evolutionary ecology applied to bark beetle outbreaks and seed masting**  
+*Advisor: Ailene MacPherson, John M. Stockie*
+
+### MSc. in Applied Mathematics  
+**Simon Fraser University, BC, Canada** (2021 – 2022)  
+**Thesis:** Computational Study of 2D Jellyfish with the Immersed Boundary Method  
+*Advisor: John M. Stockie*
+
+### BSc. in Computer Science  
+**Amirkabir University of Technology, Tehran, Iran** (2015 – 2019)  
+**Project:** Cardinality Optimization (Cardinality Constrained Problems)  
+*Advisor: S. A. Mirhassani*
