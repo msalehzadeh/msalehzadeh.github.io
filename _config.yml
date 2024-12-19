@@ -1,6 +1,11 @@
 title: "Mahdi Salehzadeh"
 theme: minima
 
+# Social Links
+social_links:
+  - name: "Google Scholar"
+    url: "https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en"
+    
 # Navigation Links
 nav_links:
   - name: "Projects"
