@@ -4,7 +4,8 @@ title: Talks
 permalink: /talks/
 ---
 
-### Talks
+## Talks
+
 - **Evolution of Seed Masting (Or Not?)**  
   *Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting*  
   Banff, Alberta, Canada (2024)
@@ -17,7 +18,7 @@ permalink: /talks/
   *Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting*  
   Ottawa, Ontario, Canada (2023)
 
-### Posters
+## Posters
 - **A Sequential Approach to Bark Beetle Outbreaks**  
   *Eco-Evo Annual Meeting*  
   Vancouver, British Columbia, Canada (2023)
