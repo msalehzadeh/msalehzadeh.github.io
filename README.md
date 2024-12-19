@@ -1,10 +1,4 @@
----
-layout: default
-title: About Me
-permalink: /README/
----
-
-## About Me
+**About Me**
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
