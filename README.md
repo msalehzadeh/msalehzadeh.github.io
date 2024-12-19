@@ -20,7 +20,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 
 <h2> Education </h2>
 
-**<h3>Ph.D. in Applied Mathematics</h3>** 
+**<h3> Ph.D. in Applied Mathematics </h3>** 
 Simon Fraser University, BC, Canada (2023 – Present)  
 Evolutionary ecology applied to bark beetle outbreaks and seed masting
 Advisor: Ailene MacPherson, John M. Stockie
