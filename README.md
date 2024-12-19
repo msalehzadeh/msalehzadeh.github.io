@@ -22,12 +22,15 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 
 ### **Ph.D. in Applied Mathematics**
 Simon Fraser University, BC, Canada (2023 – Present)  
-Eco-evolutionation applied to bark beetle outbreaks and seed masting  (Advisors: Dr. A. MacPherson & Dr. John M. Stockie)
+Eco-evolutionation applied to bark beetle outbreaks and seed masting  
+*Advisors: Dr. A. MacPherson & Dr. John M. Stockie*
 
 ### **MSc. in Applied Mathematics**
 Simon Fraser University, BC, Canada (2021 – 2022)  
-**Thesis:** Computational Study of 2D Jellyfish with the Immersed Boundary Method  (Advisor: Dr. John M. Stockie)
+**Thesis:** Computational Study of 2D Jellyfish with the Immersed Boundary Method  
+*Advisor: Dr. John M. Stockie*
 
 ### **BSc. in Computer Science**
 Amirkabir University of Technology, Tehran, Iran** (2015 – 2019)  
-**Project:** Cardinality Optimization: Focusing Cardinality Constrained Problems  (Advisor: Dr. S. A. Mirhassani)
+**Project:** Cardinality Optimization: Focusing Cardinality Constrained Problems  
+*Advisor: Dr. S. A. Mirhassani*
