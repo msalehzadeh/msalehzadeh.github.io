@@ -24,7 +24,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 <h2> Education </h2>
 
 <div>
-  <h3 style="font-weight: bold;">Ph.D. in Applied Mathematics</h3>
+  <h3 style="font-weight: bold;">Ph.D. in Applied Mathematics, <style="font-size: 0.5em;> Simon Fraser University, BC, Canada </></h3>
   <p style="font-size: 1em;"><strong>Simon Fraser University, BC, Canada</strong> (2023 – Present)<br>
   Focus: Evolutionary ecology applied to bark beetle outbreaks and seed masting<br>
   Advisors: Dr. A. MacPherson & Dr. John M. Stockie</p>
