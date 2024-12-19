@@ -11,8 +11,10 @@ My journey in academia began with a thirst for knowledge, leading me to pursue a
 </div>
 
 <div style="text-align: center;">
-<img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 300px; margin-bottom: 20px;"><br>
-<a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank" style="text-decoration: none; font-weight: bold; color: #0073e6;">Google Scholar Page</a>
+<img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 250px; margin-bottom: 20px;"><br>
+<a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #0073e6; margin-bottom: 20px; ">Google Scholar Page</a>
+<a href="cv.pdf" target="_blank" style="text-decoration: none; color: #0073e6; margin-top: 10px;">Academic CV</a>
+
 </div>
 
 </div>
