@@ -1,5 +1,9 @@
 title: "Mahdi Salehzadeh"
 theme: minima
+
+author:
+  name: "Mahdi Salehzadeh"
+  email: "mahdi_salehzadeh[at]sfu[dot]com"
     
 minima:
   social_links:
