@@ -1,5 +1,3 @@
-# About Me
-
 Here you will find interactive content, projects, and resources curated and developed by me. Feel free to explore and engage with the content!
 
 ---
