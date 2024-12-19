@@ -9,7 +9,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 </div>
 
 <div style="flex: 1; text-align: center;">
-<img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 200px; border-radius: 50%;">
+<img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 200px; border-radius: 25%;">
 </div>
 
 </div>
