@@ -19,6 +19,8 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
  </div>
 
 ---
+<br><br>
+
 <h2> Education </h2>
 
 ### **Ph.D. in Applied Mathematics**
