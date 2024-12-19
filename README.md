@@ -7,7 +7,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 </div>
 
 <div style="text-align: center;">
-<img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 200px;">
+<img src="about.jpg" alt="Mahdi Salehzadeh" style="max-width: 600px;">
 </div>
 
 </div>
