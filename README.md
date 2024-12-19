@@ -2,11 +2,6 @@
 
 Here you will find interactive content, projects, and resources curated and developed by me. Feel free to explore and engage with the content!
 
-- [About Me](https://msalehzadeh.github.io/aboutme): Learn about my background and interests.
-- [Publications](https://msalehzadeh.github.io/publication): Explore my research work and publications.
-- [Talks](https://msalehzadeh.github.io/talk): See the talks and presentations I have delivered.
-
-
 ---
 
 ## 📌 About
