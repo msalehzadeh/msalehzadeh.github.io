@@ -1,10 +1,6 @@
 title: "Mahdi Salehzadeh"
-
 theme: minima
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
   
 email: "mahdi_salehzadeh@sfu.ca"
      
