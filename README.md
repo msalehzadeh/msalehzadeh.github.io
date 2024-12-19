@@ -1,7 +1,3 @@
-Here you will find interactive content, projects, and resources curated and developed by me. Feel free to explore and engage with the content!
-
----
-
 ## 📌 About
 
 This site serves as a showcase for my:
@@ -18,22 +14,5 @@ This site serves as a showcase for my:
 - **Educational Resources**: Tutorials and examples tailored for learners and enthusiasts.
 - **Open-Source Projects**: Collaborate or fork repositories that power the content on this site.
 
----
 
-## 🛠️ Technologies
-
-The site is built using:
-- **HTML5/CSS3**: For layout and design.
-- **JavaScript**: For interactive elements.
-- **Jekyll**: The static site generator powering GitHub Pages.
-- **Markdown**: Simplifying content creation.
-
----
-
-## 🚀 Get Started
-
-To clone this repository and run it locally:
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/msalehzadeh.github.io.git
 
