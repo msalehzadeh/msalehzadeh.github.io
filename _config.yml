@@ -1,8 +1,9 @@
 title: "Mahdi Salehzadeh"
-remote_theme: jekyll/minima
-
+author:
+  name: "Mahdi Salehzadeh"
+  email: "mahdi_salehzadeh@sfu.ca"
   
-email: "mahdi_salehzadeh@sfu.ca"
+remote_theme: jekyll/minima
      
 # Navigation Links
 nav_links:
