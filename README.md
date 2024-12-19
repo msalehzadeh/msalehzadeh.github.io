@@ -18,8 +18,9 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 
  </div>
 
+<br>
 ---
-<br><br>
+<br>
 
 <h2> Education </h2>
 
