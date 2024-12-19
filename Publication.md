@@ -1,8 +1,3 @@
----
-layout: default
-title: Publications
-permalink: /publications/
----
 # Publications
 
 Here are my research publications:
