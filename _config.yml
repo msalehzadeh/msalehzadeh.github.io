@@ -3,8 +3,6 @@ theme: minima
 
 # Navigation Links
 nav_links:
-  - name: "About Me"
-    url: "/AboutMe/"
   - name: "Projects"
     url: "/Projects/"
   - name: "Short CV"
