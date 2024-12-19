@@ -24,17 +24,17 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 <h2> Education </h2>
 
 <div style="font-family: 'Times New Roman', serif;">
-  <h3 style="font-size: 1.5em; font-weight: bold;">Ph.D. in Applied Mathematics</h3>
+  <h3 style="font-weight: bold;">Ph.D. in Applied Mathematics</h3>
   <p><strong>Simon Fraser University, BC, Canada</strong> (2023 – Present)<br>
   Focus: Evolutionary ecology applied to bark beetle outbreaks and seed masting<br>
   <em>Advisors: Dr. A. MacPherson & Dr. John M. Stockie</em></p>
 
-  <h3 style="font-size: 1.5em; font-weight: bold;">MSc. in Applied Mathematics</h3>
+  <h3 style="font-weight: bold;">MSc. in Applied Mathematics</h3>
   <p><strong>Simon Fraser University, BC, Canada</strong> (2021 – 2022)<br>
   <strong>Thesis:</strong> Computational Study of 2D Jellyfish with the Immersed Boundary Method<br>
   <em>Advisor: Dr. John M. Stockie</em></p>
 
-  <h3 style="font-size: 1.5em; font-weight: bold;">BSc. in Computer Science</h3>
+  <h3 style="font-size: 1em; font-weight: bold;">BSc. in Computer Science</h3>
   <p><strong>Amirkabir University of Technology, Tehran, Iran</strong> (2015 – 2019)<br>
   <strong>Project:</strong> Cardinality Optimization: Focusing on Cardinality Constrained Problems<br>
   <em>Advisor: Dr. S. A. Mirhassani</em></p>
