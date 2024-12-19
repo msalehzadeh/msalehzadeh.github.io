@@ -33,4 +33,5 @@ Advisor: John M. Stockie
 **<h3>BSc. in Computer Science</h3>** 
 Amirkabir University of Technology, Tehran, Iran (2015 – 2019)  
 Project: Cardinality Optimization (Cardinality Constrained Problems)
+
 Advisor: S. A. Mirhassani 
