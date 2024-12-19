@@ -10,6 +10,8 @@ social_links:
      
 # Navigation Links
 nav_links:
+  - name: "About Me"
+    url: "/README/"
   - name: "Projects"
     url: "/Projects/"
   - name: "Short CV"
