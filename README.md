@@ -1,4 +1,4 @@
-## 📌 About
+## About
 
 This site serves as a showcase for my:
 - **Research Projects**: Insights into my academic work and personal interests.
