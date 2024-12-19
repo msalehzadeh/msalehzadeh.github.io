@@ -6,7 +6,9 @@ minima:
     - platform: google-scholar
       title: "Google Scholar"
       user_url: "https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en"
-
+    - platform: linkedin
+      title: "LinkedIn"
+      user_url: "https://www.linkedin.com/in/mahdi-salehzadeh-845478141/"
      
 # Navigation Links
 nav_links:
