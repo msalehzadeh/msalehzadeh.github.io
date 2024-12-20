@@ -41,13 +41,14 @@ permalink: /ShortCV/
 
 ---
 
-<h3 style="font-size: 1.1em; font-weight: bold;">Teaching</h3>
-<p style="font-size: 0.9em; margin-top: 0;">
+<h2>Teaching</h2>
+
+<p style="font-size: 0.8em; margin-top: 0;">
   <strong>Numerical Analysis (MACM 316)</strong><br>
-  Teaching Assistant, Simon Fraser University (2024, 2023, 2021)<br><br>
+  Teaching Assistant, Simon Fraser University (2024, 2023, 2021)<br>
   
   <strong>Introduction to Biomathematics (MATH 360)</strong><br>
-  Teaching Assistant, Simon Fraser University (2023)<br><br>
+  Teaching Assistant, Simon Fraser University (2023)<br>
   
   <strong>Mathematics in Sports (MAT 303)</strong><br>
   Teaching Assistant, Simon Fraser University (2022)<br><br>
@@ -59,9 +60,10 @@ permalink: /ShortCV/
   Teaching Assistant, Simon Fraser University (2021)
 </p>
 
-<hr style="margin: 1em 0;">
+---
 
-<h3 style="font-size: 1.1em; font-weight: bold;">Honors & Ranking</h3>
+<h2>Honors & Ranking</h2>
+
 <p style="font-size: 0.9em; margin-top: 0;">
   <strong>1st Poster Presentation Award</strong><br>
   SIAM PNW (2023)<br><br>
