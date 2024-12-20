@@ -88,21 +88,31 @@ permalink: /ShortCV/
   <p style="font-size: 0.8em; margin-top: 0;">
     SIAM Pacific Noth West (2023)
   </p>
+
+<h3 style="font-size:1.1em; font-weight: bold; margin-bottom: 0.2em;">
+   MSc Defense with Distinction
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+    Simon Fraser University (2022)
+  </p>
+
+  <h3 style="font-size:1.1em; font-weight: bold; margin-bottom: 0.2em;">
+   Top 5 Percent GPA Rank in BSc
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+     Among co-entry students, Amirkabir University of Technology (2019)
+  </p>
   
-<p style="font-size: 0.9em; margin-top: 0;">
-  
-  <strong>1st Poster Presentation Award</strong><br>
-  SIAM PNW (2023)<br><br>
-  
-  <strong>MSc Defense with Distinction</strong><br>
-  Simon Fraser University (2022)<br><br>
-  
-  <strong>Top 5 Percent Rank</strong><br>
-  Iranian National Universities Entrance Exam (Mathematics and Physics branch) (2014)<br><br>
-  
-  <strong>Top 5 Percent Rank</strong><br>
-  Iranian National Universities Entrance Exam (Foreign Languages) (2014)<br><br>
-  
-  <strong>Top 5 Percent GPA Rank in BSc</strong><br>
-  Among co-entry students, Amirkabir University of Technology (2019)
-</p>
+  <h3 style="font-size:1.1em; font-weight: bold; margin-bottom: 0.2em;">
+   Top 5 Percent Rank
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+     Iranian National Universities Entrance Exam (Mathematics and Physics branch) (2014)
+  </p>
+
+  <h3 style="font-size:1.1em; font-weight: bold; margin-bottom: 0.2em;">
+   Top 5 Percent Rank
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+     Iranian National Universities Entrance Exam (Foreign Languages) (2014)
+  </p>
