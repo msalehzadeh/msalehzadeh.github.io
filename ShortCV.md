@@ -43,6 +43,13 @@ permalink: /ShortCV/
 
 <h2>Teaching</h2>
 
+<h3 style="font-size:1.1em; font-weight: bold; margin-bottom: 0.2em;">
+    Numerical Analysis (MACM 316)
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+    Graduate Teaching Assistant, Simon Fraser University (2024, 2023, 2021)
+  </p>
+  
 <p style="font-size: 0.8em; margin-top: 0;">
   <strong>Numerical Analysis (MACM 316)</strong><br>
   Teaching Assistant, Simon Fraser University (2024, 2023, 2021)<br>
