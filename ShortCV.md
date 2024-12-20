@@ -42,31 +42,39 @@ permalink: /ShortCV/
 ---
 
 <h3 style="font-size: 1.1em; font-weight: bold;">Teaching</h3>
-<ul style="font-size: 0.9em; margin-top: 0;">
-  <li><strong>Numerical Analysis (MACM 316)</strong><br>
-      Teaching Assistant, Simon Fraser University (2024, 2023, 2021)</li>
-  <li><strong>Introduction to Biomathematics (MATH 360)</strong><br>
-      Teaching Assistant, Simon Fraser University (2023)</li>
-  <li><strong>Mathematics in Sports (MAT 303)</strong><br>
-      Teaching Assistant, Simon Fraser University (2022)</li>
-  <li><strong>Applied Calculus Workshop (ACW)</strong><br>
-      Teaching Assistant, Simon Fraser University (2023, 2022, 2021)</li>
-  <li><strong>Linear Algebra (MATH 232)</strong><br>
-      Teaching Assistant, Simon Fraser University (2021)</li>
-</ul>
+<p style="font-size: 0.9em; margin-top: 0;">
+  <strong>Numerical Analysis (MACM 316)</strong><br>
+  Teaching Assistant, Simon Fraser University (2024, 2023, 2021)<br><br>
+  
+  <strong>Introduction to Biomathematics (MATH 360)</strong><br>
+  Teaching Assistant, Simon Fraser University (2023)<br><br>
+  
+  <strong>Mathematics in Sports (MAT 303)</strong><br>
+  Teaching Assistant, Simon Fraser University (2022)<br><br>
+  
+  <strong>Applied Calculus Workshop (ACW)</strong><br>
+  Teaching Assistant, Simon Fraser University (2023, 2022, 2021)<br><br>
+  
+  <strong>Linear Algebra (MATH 232)</strong><br>
+  Teaching Assistant, Simon Fraser University (2021)
+</p>
 
 <hr style="margin: 1em 0;">
 
 <h3 style="font-size: 1.1em; font-weight: bold;">Honors & Ranking</h3>
-<ul style="font-size: 0.9em; margin-top: 0;">
-  <li><strong>1st Poster Presentation Award</strong><br>
-      SIAM PNW (2023)</li>
-  <li><strong>MSc Defense with Distinction</strong><br>
-      Simon Fraser University (2022)</li>
-  <li><strong>Top 5 Percent Rank</strong><br>
-      Iranian National Universities Entrance Exam (Mathematics and Physics branch) (2014)</li>
-  <li><strong>Top 5 Percent Rank</strong><br>
-      Iranian National Universities Entrance Exam (Foreign Languages) (2014)</li>
-  <li><strong>Top 5 Percent GPA Rank in BSc</strong><br>
-      Among co-entry students, Amirkabir University of Technology (2019)</li>
-</ul>
+<p style="font-size: 0.9em; margin-top: 0;">
+  <strong>1st Poster Presentation Award</strong><br>
+  SIAM PNW (2023)<br><br>
+  
+  <strong>MSc Defense with Distinction</strong><br>
+  Simon Fraser University (2022)<br><br>
+  
+  <strong>Top 5 Percent Rank</strong><br>
+  Iranian National Universities Entrance Exam (Mathematics and Physics branch) (2014)<br><br>
+  
+  <strong>Top 5 Percent Rank</strong><br>
+  Iranian National Universities Entrance Exam (Foreign Languages) (2014)<br><br>
+  
+  <strong>Top 5 Percent GPA Rank in BSc</strong><br>
+  Among co-entry students, Amirkabir University of Technology (2019)
+</p>
