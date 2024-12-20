@@ -32,11 +32,20 @@ permalink: /talks/
   
 
 ## Posters
-- **A Sequential Approach to Bark Beetle Outbreaks**  
-  *Eco-Evo Annual Meeting*  
-  Vancouver, British Columbia, Canada (2023)
 
-- **A Sequential Approach to Bark Beetle Outbreaks**  
-  *Society for Industrial and Applied Mathematics Pacific Northwest Section (SIAM PNW) Annual Meeting*  
-  Seattle, Washington, USA (2023)
+ <h3 style="font-size:1em; font-weight: bold; margin-bottom: 0.2em;">
+    A Sequential Approach to Bark Beetle Outbreaks 
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+    Eco-Evo Annual Meeting<br>
+    Squamish, BC, Canada (2023)
+  </p>
+
+   <h3 style="font-size:1em; font-weight: bold; margin-bottom: 0.2em;">
+    A Sequential Approach to Bark Beetle Outbreaks 
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+    Society for Industrial and Applied Mathematics Pacific Northwest Section (SIAM PNW) Annual Meeting<br>
+    Bellingham, WA, US (2023)
+  </p>
 
