@@ -6,6 +6,15 @@ permalink: /talks/
 
 ## Talks
 
+ <h3 style="font-size:1em; font-weight: bold; margin-bottom: 0.2em;">
+    Evolution of Seed Masting (Or Not?) 
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+    Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting<br>
+    Kingston, ON, Canada (2024)
+  </p>
+
+  
 - **Evolution of Seed Masting (Or Not?)**  
   *Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting*  
   Banff, Alberta, Canada (2024)
