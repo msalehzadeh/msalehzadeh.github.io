@@ -24,9 +24,9 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 <h2> Education </h2>
 
 <div>
-  <h3 style="font-size:1.2em; font-weight: bold;">Ph.D. in Applied Mathematics, 
+  <h3 style="font-size:1.1em; font-weight: bold;">Ph.D. in Applied Mathematics, 
   <span style="font-size: 0.8em; font-weight: normal;">Simon Fraser University, BC, Canada (2023 – Present)</span><h3>
-  <p style="font-size: 0.8em;"><strong>Focus:</strong> Evolutionary ecology applied to bark beetle outbreaks and seed masting<br>
+  <p style="font-size: 0.8em; margin-top: 0;"><strong>Focus:</strong> Evolutionary ecology applied to bark beetle outbreaks and seed     masting<br>
   Advisors: Dr. A. MacPherson & Dr. John M. Stockie</p>
   
 
