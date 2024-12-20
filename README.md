@@ -38,5 +38,6 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
   <span style="font-size: 0.8em; font-weight: normal;">Amirkabir University of Technology, Tehran, Iran (2015 – 2019)</span><h3>
   <p style="font-size: 0.8em; margin-top: 0;"><strong>Project:</strong> Cardinality Optimization: Focusing on Cardinality Constrained    Problems<br>
   <strong>Advisors:</strong> Dr. S. A. Mirhassani</p>
+   
 </div>
 
