@@ -13,7 +13,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 
  <!-- Image Section -->
  <div style="text-align: center; flex: 0 0 250px;">
- <img src="defence.png" alt="Mahdi Salehzadeh" style="max-width: 250px; margin-bottom: 20px;">
+ <img src="intrest.png" alt="Mahdi Salehzadeh" style="max-width: 250px; margin-bottom: 20px;">
  </div>
 
  </div><br>
