@@ -10,7 +10,7 @@ permalink: /Research/
 
 <!-- Text Section -->
 <div style="flex: 1; margin-right: 20px;">
-My research interests lie at the intersection of **mathematical biology**, **evolution** and **ecology**, where I apply a combination of theoretical, computational, and analytical approaches to address complex ecological and evolutionary problems. My work is broadly motivated by understanding the dynamics of ecosystems, particularly the mechanisms underlying **seed masting (masting)** strategies and **bark beetle infestations**. 
+My research interests lie at the intersection of mathematical biology, evolution and ecology, where I apply a combination of theoretical, computational, and analytical approaches to address complex ecological and evolutionary problems. My work is broadly motivated by understanding the dynamics of ecosystems, particularly the mechanisms underlying seed masting (masting) strategies and bark beetle infestations. 
 </div>
 </div>
 
