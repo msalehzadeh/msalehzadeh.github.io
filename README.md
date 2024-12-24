@@ -38,7 +38,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
     <span style="font-size: 0.8em; font-weight: normal;">Simon Fraser University, BC, Canada (2021 – 2022)</span>
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    <strong>Thesis:</strong> Computational Study of 2D Jellyfish with the Immersed Boundary Method<br>
+    <strong>Thesis:</strong> Computational Study of 2D Jellyfish with the Immersed Boundary Method [<a href="https://summit.sfu.ca/item/35829" target="_blank" style="text-decoration: none; color: #009999;">SFU Library</a>]<br>
     <strong>Advisors:</strong> Dr. John M. Stockie
   </p>
 
