@@ -4,21 +4,10 @@ email: "mahdi_salehzadeh@sfu.ca"
 theme: minima
 
 header_pages:
-  - Projects.md
+  - Research.md
   - ShortCV.md
   - Publications.md 
   - Talks.md
-  
-# Navigation Links
-# nav_links:
-#   - name: "Projects"
-#     url: "/Projects/"
-#   - name: "Short CV"
-#     url: "/ShortCV/"
-#   - name: "Publications"
-#     url: "/Publications/"
-#   - name: "Talks"
-#     url: "/Talks/"
 
  # Generate social links in footer.
 social_links:
