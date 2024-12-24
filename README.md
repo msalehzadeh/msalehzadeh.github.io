@@ -4,10 +4,10 @@
 
 <!-- Text Section -->
 <div style="flex: 1; margin-right: 20px;">
-Welcome to my corner of the internet! I'm currently immersed in the world of academia as a Ph.D. student in the Mathematics Department at Simon Fraser University. Under the guidance of esteemed advisors, <a href="https://www.sfu.ca/~jstockie/" target="_blank" style="text-decoration: none; color: #268bd2;">Dr. John Stockie</a> and <a href="https://amacp.github.io" target="_blank" style="text-decoration: none; color: #0000EE;">Dr. Ailene MacPherson</a>, I'm passionately delving into research at the intersection of epidemiology, evolutionary ecology, and theoretical biology, with a focus on applying evolutionary ecology principles to better understand bark beetle outbreaks and seed masting dynamics.<br><br>
-<a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #009999;">Google Scholar Page</a><br>
+Welcome to my corner of the internet! I'm currently immersed in the world of academia as a Ph.D. student in the Mathematics Department at Simon Fraser University. Under the guidance of esteemed advisors, <a href="https://www.sfu.ca/~jstockie/" target="_blank" style="text-decoration: none; color: #268bd2;">Dr. John Stockie</a> and <a href="https://amacp.github.io" target="_blank" style="text-decoration: none; color: #268bd2;">Dr. Ailene MacPherson</a>, I'm passionately delving into research at the intersection of epidemiology, evolutionary ecology, and theoretical biology, with a focus on applying evolutionary ecology principles to better understand bark beetle outbreaks and seed masting dynamics.<br><br>
+<a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #268bd2;">Google Scholar Page</a><br>
 <div style="margin-top: 5px;">
-<a href="CV.pdf" target="_blank" style="text-decoration: none; color: #009999;">Academic CV</a>
+<a href="CV.pdf" target="_blank" style="text-decoration: none; color: #268bd2;">Academic CV</a>
 </div>
 </div>
 
@@ -38,7 +38,7 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
     <span style="font-size: 0.8em; font-weight: normal;">Simon Fraser University, BC, Canada (2021 – 2022)</span>
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    <strong>Thesis:</strong> Computational Study of 2D Jellyfish with the Immersed Boundary Method [<a href="https://summit.sfu.ca/item/35829" target="_blank" style="text-decoration: none; color: #009999;">SFU Library</a>]<br>
+    <strong>Thesis:</strong> Computational Study of 2D Jellyfish with the Immersed Boundary Method [<a href="https://summit.sfu.ca/item/35829" target="_blank" style="text-decoration: none; color: #268bd2;">SFU Library</a>]<br>
     <strong>Advisors:</strong> Dr. John M. Stockie
   </p>
 
