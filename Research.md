@@ -16,7 +16,7 @@ My research interests lie at the intersection of **mathematical biology**, **evo
 
  <!-- Image Section -->
  <div style="text-align: center; flex: 0 0 250px;">
- <img src="IntrestsCloud.png" alt="Research Intrests" style="max-width: 250px; margin-bottom: 20px;">
+ <img src="IntrestsCloud.png" alt="Research Intrests" style="max-width: 350px; margin-bottom: 20px;">
  </div>
 
  </div><br>
