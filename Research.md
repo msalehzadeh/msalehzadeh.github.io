@@ -14,8 +14,8 @@ My research interests lie at the intersection of mathematical biology, evolution
 </div>
 
  <!-- Image Section -->
- <div style="text-align: center; flex: 0 0 350px;">
- <img src="/intrests.png" alt="intrests" style="max-width: 350px; margin-bottom: 20px;">
+ <div style="text-align: center; flex: 0 0 450px;">
+ <img src="/intrests.png" alt="intrests" style="max-width: 450px; margin-bottom: 20px;">
  </div>
  
  </div><br>
