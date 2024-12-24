@@ -15,14 +15,10 @@ My research interests lie at the intersection of mathematical biology, evolution
 
  <!-- Image Section -->
  <div style="text-align: center; flex: 0 0 350px;">
- <img src="defence.png" alt="intrests" style="max-width: 350px; margin-bottom: 20px;">
+ <img src="/intrests.png" alt="intrests" style="max-width: 350px; margin-bottom: 20px;">
  </div>
  
  </div><br>
-
- <div style="text-align: center; flex: 0 0 350px;">
- <img src="intrests.png" alt="intrests" style="max-width: 350px; margin-bottom: 20px;">
- </div>
  
 
 Currently, my PhD research focuses on the evolution of masting—a phenomenon characterized by intermittent, synchronized, and large seed production in plant populations. The overarching goal of my work is to uncover the ecological and evolutionary drivers of masting and assess its broader consequences. Specifically, my research addresses three key questions:
