@@ -17,9 +17,4 @@ header_pages:
   - Talks.md
 
 social_links:
-  - platform: github
-    user_url: "https://github.com/msalehzadeh"
-  - platform: google_scholar
-    user_url: "https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en"
-  - platform: linkedin
-    user_url: "https://www.linkedin.com/in/mahdi-salehzadeh-845478141/"
+ - {platform: github,         user_url: "https://github.com/msalehzadeh" }
