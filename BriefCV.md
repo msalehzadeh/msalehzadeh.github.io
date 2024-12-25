@@ -4,7 +4,7 @@ title: Short CV
 permalink: /ShortCV/
 ---
 
-## Short CV
+## Brief CV
 
 ---
 
