@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Short CV
-permalink: /ShortCV/
+title: Brief CV
+permalink: /BriefCV/
 ---
 
 ## Brief CV
