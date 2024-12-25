@@ -5,7 +5,7 @@ theme: minima
 
 header_pages:
   - Research.md
-  - ShortCV.md
+  - BriefCV.md
   - Publications.md 
   - Talks.md
 
