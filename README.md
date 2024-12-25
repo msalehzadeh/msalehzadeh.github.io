@@ -8,17 +8,6 @@ Welcome to my corner of the internet! I'm currently immersed in the world of aca
 <a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank" style="text-decoration: none; color: #268bd2;">Google Scholar Page</a><br>
 <div style="margin-top: 5px;">
 <a href="CV.pdf" target="_blank" style="text-decoration: none; color: #268bd2;">Academic CV</a>
-<p>
-  <a href="https://github.com/msalehzadeh" target="_blank">
-    <i class="fab fa-github"></i> GitHub
-  </a><br>
-  <a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en" target="_blank">
-    <i class="fas fa-graduation-cap"></i> Google Scholar
-  </a><br>
-  <a href="https://www.linkedin.com/in/mahdi-salehzadeh-845478141/" target="_blank">
-    <i class="fab fa-linkedin"></i> LinkedIn
-  </a>
-</p>
 </div>
 </div>
 
