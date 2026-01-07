@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Image -->
-  <div style="flex: 0 0 180px; text-align: center;">
+  <div style="flex: 0 0 240px; text-align: center;">
     <img src="defence.png"
          alt="Mahdi Salehzadeh"
          style="width: 180px; height: auto; border-radius: 12px;">
@@ -12,14 +12,14 @@
 
   <!-- Links -->
   <div style="flex: 1;">
-    <p style="margin-top: 80px;">
+    <p style="margin-top: 0;">
       <a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en"
          target="_blank"
          style="text-decoration: none; color: #268bd2;">
         Google Scholar
       </a>
     </p>
-    <p style="margin-top: 100px;">
+    <p style="margin-top: 20px;">
       <a href="CV.pdf"
          target="_blank"
          style="text-decoration: none; color: #268bd2;">
