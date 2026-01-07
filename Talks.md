@@ -7,6 +7,14 @@ permalink: /talks/
 ## Talks
 
  <h3 style="font-size:1em; font-weight: bold; margin-bottom: 0.2em;">
+    Mathematical Models of Synchrony:From External Forcing to Stage-Structure 
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+    Society for Industrial and Applied Mathematics (SIAM/CAIMS) <br>
+    Montreal, QC, Canada (2025)
+  </p>
+  
+ <h3 style="font-size:1em; font-weight: bold; margin-bottom: 0.2em;">
     Evolution of Seed Masting (Or Not?) 
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
