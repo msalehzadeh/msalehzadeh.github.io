@@ -33,7 +33,7 @@
 
 <!-- Full-width About Me text -->
 <div style="margin-top: 18px; line-height: 1.65;">
-  Welcome to my corner of the internet! I'm currently immersed in the world of academia as a Ph.D. student in the Mathematics Department at Simon Fraser University. Under the guidance of esteemed advisors,
+  Welcome to my corner of the internet! I'm currently immersed in the world of academia as a Ph.D. candidate in the Mathematics Department at Simon Fraser University. Under the guidance of esteemed advisors,
   <a href="https://www.sfu.ca/~jstockie/" target="_blank" style="text-decoration: none; color: #268bd2;">Dr. John Stockie</a>
   and
   <a href="https://amacp.github.io" target="_blank" style="text-decoration: none; color: #268bd2;">Dr. Ailene MacPherson</a>,
