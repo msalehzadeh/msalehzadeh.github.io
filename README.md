@@ -4,7 +4,7 @@
 <div style="display: flex; align-items: flex-start; gap: 20px;">
 
   <!-- Image -->
-  <div style="flex: 0 0 240px; text-align: center;">
+  <div style="flex: 0 0 140px; text-align: center;">
     <img src="defence.png"
          alt="Mahdi Salehzadeh"
          style="width: 180px; height: auto; border-radius: 12px;">
