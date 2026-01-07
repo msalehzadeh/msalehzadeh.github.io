@@ -1,39 +1,50 @@
-/* About section responsive layout */
-.about-wrap {
-  display: flex;
-  align-items: flex-start;
-  gap: 20px;
-}
+/* ---------- ABOUT ME LAYOUT ---------- */
 
-.about-text {
-  flex: 1;
-  min-width: 0; /* prevents overflow on narrow screens */
+.about-top {
+  display: grid;
+  grid-template-columns: 1fr 2fr; /* photo = half text width */
+  gap: 2rem;
+  align-items: center;
+  margin-bottom: 1.5rem;
 }
 
 .about-photo {
-  flex: 0 0 250px;
   text-align: center;
 }
 
 .about-photo img {
   width: 100%;
-  max-width: 250px;
+  max-width: 220px; /* hard cap so it never dominates */
   height: auto;
-  border-radius: 12px;
+  border-radius: 14px;
 }
 
-/* Mobile: stack image above/below text */
-@media screen and (max-width: 700px) {
-  .about-wrap {
-    flex-direction: column;
-  }
+.about-links {
+  font-size: 1.1rem;
+}
 
-  .about-photo {
-    flex: none;
-    order: -1; /* image first; remove if you want image after text */
+.about-links a {
+  text-decoration: none;
+  color: #268bd2;
+}
+
+.about-links p {
+  margin: 0.6rem 0;
+}
+
+.about-text {
+  font-size: 1rem;
+  line-height: 1.65;
+}
+
+/* ---------- MOBILE ---------- */
+@media screen and (max-width: 700px) {
+  .about-top {
+    grid-template-columns: 1fr;
+    text-align: center;
   }
 
   .about-photo img {
-    max-width: 220px;
+    max-width: 200px;
   }
 }
