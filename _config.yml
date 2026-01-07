@@ -10,6 +10,11 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+seo:
+  type: Person
+
+responsive: true
+
 header_pages:
   - Research.md
   - BriefCV.md
