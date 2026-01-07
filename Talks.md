@@ -18,7 +18,7 @@ permalink: /talks/
     Evolution of Seed Masting (Or Not?) 
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting<br>
+    Canadian Applied and Industrial Mathematics Society (CAIMS) <br>
     Kingston, ON, Canada (2024)
   </p>
 
@@ -26,7 +26,7 @@ permalink: /talks/
     Evolution of Seed Masting (Or Not?) 
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    Canadian Society for Ecology and Evolution (CSEE) Annual Meeting<br>
+    Canadian Society for Ecology and Evolution (CSEE)<br>
     Vancouver, BC, Canada (2024)
   </p>
 
@@ -34,7 +34,7 @@ permalink: /talks/
     Computational Study of 2D Jellyfish with the Immersed Boundary Method (IBM) 
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    Canadian Applied and Industrial Mathematics Society (CAIMS) Annual Meeting<br>
+    Canadian Applied and Industrial Mathematics Society (CAIMS) <br>
     Federicton, NB, Canada (2023)
   </p>
   
@@ -45,7 +45,7 @@ permalink: /talks/
     A Sequential Approach to Bark Beetle Outbreaks 
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    Eco-Evo Annual Meeting<br>
+    Eco-Evo <br>
     Squamish, BC, Canada (2023)
   </p>
 
@@ -53,7 +53,7 @@ permalink: /talks/
     A Sequential Approach to Bark Beetle Outbreaks 
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    Society for Industrial and Applied Mathematics Pacific Northwest Section (SIAM PNW) Annual Meeting<br>
+    Society for Industrial and Applied Mathematics Pacific Northwest Section (SIAM PNW) <br>
     Bellingham, WA, US (2023)
   </p>
 
