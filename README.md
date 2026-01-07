@@ -12,14 +12,14 @@
 
   <!-- Links -->
   <div style="flex: 1;">
-    <p style="margin-top: 160px;">
+    <p style="margin-top: 80px;">
       <a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en"
          target="_blank"
          style="text-decoration: none; color: #268bd2;">
         Google Scholar
       </a>
     </p>
-    <p style="margin-top: 180px;">
+    <p style="margin-top: 100px;">
       <a href="CV.pdf"
          target="_blank"
          style="text-decoration: none; color: #268bd2;">
