@@ -1,39 +1,39 @@
-/* Improve readability on phones */
-@media screen and (max-width: 600px) {
+/* About section responsive layout */
+.about-wrap {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+}
 
-  body {
-    font-size: 16px;
-    line-height: 1.6;
+.about-text {
+  flex: 1;
+  min-width: 0; /* prevents overflow on narrow screens */
+}
+
+.about-photo {
+  flex: 0 0 250px;
+  text-align: center;
+}
+
+.about-photo img {
+  width: 100%;
+  max-width: 250px;
+  height: auto;
+  border-radius: 12px;
+}
+
+/* Mobile: stack image above/below text */
+@media screen and (max-width: 700px) {
+  .about-wrap {
+    flex-direction: column;
   }
 
-  .wrapper {
-    padding-left: 1rem;
-    padding-right: 1rem;
+  .about-photo {
+    flex: none;
+    order: -1; /* image first; remove if you want image after text */
   }
 
-  h1 {
-    font-size: 1.8rem;
-  }
-
-  h2 {
-    font-size: 1.4rem;
-  }
-
-  h3 {
-    font-size: 1.2rem;
-  }
-
-  /* Prevent horizontal scrolling from long content */
-  img,
-  table,
-  pre,
-  code {
-    max-width: 100%;
-    overflow-x: auto;
-  }
-
-  /* Make navigation links easier to tap */
-  .site-nav a {
-    padding: 0.5rem 0;
+  .about-photo img {
+    max-width: 220px;
   }
 }
