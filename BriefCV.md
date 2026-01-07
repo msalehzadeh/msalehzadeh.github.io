@@ -43,6 +43,14 @@ permalink: /BriefCV/
 
 <h2>Teaching</h2>
 
+
+<h3 style="font-size:1.1em; font-weight: bold; margin-bottom: 0.2em;">
+    Stochastic Modelling and Simulation (MATH 348)
+  </h3>
+  <p style="font-size: 0.8em; margin-top: 0;">
+    Graduate Teaching Assistant, Simon Fraser University (2026, 2025)
+  </p>
+  
 <h3 style="font-size:1.1em; font-weight: bold; margin-bottom: 0.2em;">
     Numerical Analysis (MACM 316)
   </h3>
