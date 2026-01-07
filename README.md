@@ -19,12 +19,11 @@
         Google Scholar
       </a>
     </p>
-
-    <p style="margin-top: 8px;">
+    <p style="margin-top: 20px;">
       <a href="CV.pdf"
          target="_blank"
          style="text-decoration: none; color: #268bd2;">
-        Academic CV (PDF)
+        Academic CV
       </a>
     </p>
   </div>
