@@ -1,1 +1,39 @@
+/* Improve readability on phones */
+@media screen and (max-width: 600px) {
 
+  body {
+    font-size: 16px;
+    line-height: 1.6;
+  }
+
+  .wrapper {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+
+  h1 {
+    font-size: 1.8rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+
+  h3 {
+    font-size: 1.2rem;
+  }
+
+  /* Prevent horizontal scrolling from long content */
+  img,
+  table,
+  pre,
+  code {
+    max-width: 100%;
+    overflow-x: auto;
+  }
+
+  /* Make navigation links easier to tap */
+  .site-nav a {
+    padding: 0.5rem 0;
+  }
+}
