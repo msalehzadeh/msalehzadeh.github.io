@@ -29,5 +29,5 @@ permalink: /Publications/
   *Under review in Evolutionary Biology*. [DOI:XX]([https://doi.org/10.64898/2026.09.02.748907]) [bioRxiv Preprint]
 
 - Foisy, M., MacPherson, A., McDonough, Y., M'Gonigle, L.K., Maghrazi, M. and **Salehzadeh, M.**
-- **A not so disturbing view of life history evolution.**
-- *Under review in American Naturalist*.
+  **A not so disturbing view of life history evolution.**
+  *Under review in American Naturalist*.
