@@ -6,7 +6,7 @@ permalink: /Publications/
 
 ## Publications
 
-[**Google Scholar Page**]([https://scholar.google.com](https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en))
+[**Google Scholar Page**](https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en)
 
 ### Theses
 - **Salehzadeh, M.**  
