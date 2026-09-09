@@ -36,7 +36,7 @@
   <a href="https://www.sfu.ca/~jstockie/" target="_blank" style="text-decoration: none; color: #268bd2;">Dr. John Stockie</a>
   and
   <a href="https://amacp.github.io" target="_blank" style="text-decoration: none; color: #268bd2;">Dr. Ailene MacPherson</a>,
-  I'm passionately delving into research at the intersection of epidemiology, evolutionary ecology, and theoretical biology, with a focus on applying evolutionary ecology principles to better understand bark beetle outbreaks and seed masting dynamics.
+  I'm passionately delving into research at the intersection of epidemiology, ecology and evolution.
 </div>
 
 ---
@@ -50,7 +50,7 @@
     <span style="font-size: 0.8em; font-weight: normal;">Simon Fraser University, BC, Canada (2023 – Present)</span>
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    <strong>Focus:</strong> Evolutionary ecology applied to bark beetle outbreaks and seed masting<br>
+    <strong>Focus:</strong> Models of Life-History Event Timing and Implications for Epidemiological, Ecological, and Evolutionary Dynamics<br>
     <strong>Advisors:</strong> Dr. A. MacPherson & Dr. John M. Stockie
   </p>
 
