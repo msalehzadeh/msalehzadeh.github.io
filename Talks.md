@@ -4,7 +4,7 @@ title: Talks
 permalink: /talks/
 ---
 
-## Invited
+### Invited
 
 <h3 style="font-size:1em; font-weight: bold; margin-bottom: 0.2em;">
     Biology and Modeling (Talk)
@@ -30,7 +30,7 @@ permalink: /talks/
     Kingston, ON, Canada (2024)
   </p>
 
-## Contributed
+### Contributed
 
 <h3 style="font-size:1em; font-weight: bold; margin-bottom: 0.2em;">
     Life-History Delays, Stochasticity, and the Emergence of Masting Reproduction (Talk)
