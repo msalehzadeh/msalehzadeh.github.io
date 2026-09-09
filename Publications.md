@@ -32,7 +32,3 @@ permalink: /Publications/
 - Foisy, M., MacPherson, A., McDonough, Y., M'Gonigle, L.K., Maghrazi, M. and **Salehzadeh, M.**  
   **A not so disturbing view of life history evolution.**  
   *Under review in American Naturalist.*
-
-- Foisy, M., MacPherson, A., McDonough, Y., M'Gonigle, L.K., Maghrazi, M. and **Salehzadeh, M.**
-  **A not so disturbing view of life history evolution.**
-  *Under review in American Naturalist.*
