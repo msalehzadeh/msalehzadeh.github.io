@@ -22,4 +22,4 @@ permalink: /Publications/
 ### Under Review
 - **Salehzadeh, M.**, Stockie, J. M., & MacPherson, A.  
   **An ecological model of masting reproduction matches empirical dynamics.**  
-  *Under review in Theoretical Eclogy*. [DOI: 10.1016/j.tpb.2024.10.002]([https://doi.org/10.1016/j.tpb.2024.10.002](https://doi.org/10.64898/2026.09.02.748907)) [bioRxiv Preprint]
+  *Under review in Theoretical Eclogy*. [DOI: 10.64898/2026.09.02.748907]([https://doi.org/10.64898/2026.09.02.748907]) [bioRxiv Preprint]
