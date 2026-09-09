@@ -8,6 +8,14 @@ permalink: /Publications/
 
 [**Google Scholar Page**](https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en)
 
+<p style="margin-top: 0;">
+      <a href="https://scholar.google.com/citations?user=wQ4KU-YAAAAJ&hl=en"
+         target="_blank"
+         style="text-decoration: none; color: #268bd2;">
+        Google Scholar
+      </a>
+    </p>
+
 ### Theses
 - **Salehzadeh, M.**  
   **Computational Study of 2D Jellyfish with the Immersed Boundary Method.**  
