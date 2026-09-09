@@ -16,7 +16,7 @@ permalink: /BriefCV/
     <span style="font-size: 0.8em; font-weight: normal;">Simon Fraser University, BC, Canada (2023 – Present)</span>
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
-    <strong>Focus:</strong> Evolutionary ecology applied to bark beetle outbreaks and seed masting<br>
+    <strong>Focus:</strong> Models of Life-History Event Timing and Implications for Epidemiological, Ecological, and Evolutionary Dynamics<br>
     <strong>Advisors:</strong> Dr. A. MacPherson & Dr. John M. Stockie
   </p>
 
