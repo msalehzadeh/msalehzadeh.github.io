@@ -7,7 +7,7 @@ permalink: /talks/
 ### Invited
 
 <h3 style="font-size:1em; font-weight: bold; margin-bottom: 0.2em;">
-    Biology and Modeling (Talk)
+    Evolution of Delayed Germination (Talk)
   </h3>
   <p style="font-size: 0.8em; margin-top: 0;">
     BaM! Workshop <br>
