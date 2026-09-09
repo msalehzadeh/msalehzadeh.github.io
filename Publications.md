@@ -24,10 +24,10 @@ permalink: /Publications/
   **An ecological model of masting reproduction matches empirical dynamics.**  
   *Under review in Theoretical Eclogy*. [DOI:10.64898/2026.09.02.748907]([https://doi.org/10.64898/2026.09.02.748907]) [bioRxiv Preprint]
 
-- Foisy, M., MacPherson, A., McDonough, Y., M'Gonigle, L.K., Maghrazi, M. and **Salehzadeh, M.**
+- **Salehzadeh, M.**, Stockie, J. M., & MacPherson, A. 
   **Cyclic pathogen epidemics favour the evolution of delayed germination.**  
   *Under review in Evolutionary Biology*. [DOI:XX]([https://doi.org/10.64898/2026.09.02.748907]) [bioRxiv Preprint]
 
 - Foisy, M., MacPherson, A., McDonough, Y., M'Gonigle, L.K., Maghrazi, M. and **Salehzadeh, M.**
   **A not so disturbing view of life history evolution.**
-  *Under review in American Naturalist*.
+  *Under review in American Naturalist.*
