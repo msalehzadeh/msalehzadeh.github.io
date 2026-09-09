@@ -23,7 +23,7 @@ permalink: /Publications/
 
 - **Salehzadeh, M.**, Stockie, J. M., & MacPherson, A.  
   **An ecological model of masting reproduction matches empirical dynamics.**  
-  *Under review in Theoretical Eclogy*. [bioRxiv](https://doi.org/10.64898/2026.09.02.748907)
+  *Under review in Theoretical Ecology*. [bioRxiv](https://doi.org/10.64898/2026.09.02.748907)
 
 - **Salehzadeh, M.**, Stockie, J. M., & MacPherson, A.  
   **Cyclic pathogen epidemics favour the evolution of delayed germination.**  
