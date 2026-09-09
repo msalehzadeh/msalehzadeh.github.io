@@ -17,9 +17,13 @@ permalink: /Publications/
 
 - **Salehzadeh, M.**, Stockie, J. M., & MacPherson, A.  
   **Aggregation unveiled: A sequential modelling approach to bark beetle outbreaks.**  
-  *Theoretical Population Biology*, 160, 62–69, 2024. [DOI: 10.1016/j.tpb.2024.10.002](https://doi.org/10.1016/j.tpb.2024.10.002)  
+  *Theoretical Population Biology*, 160, 62–69, 2024. [DOI:10.1016/j.tpb.2024.10.002](https://doi.org/10.1016/j.tpb.2024.10.002)  
 
 ### Under Review
 - **Salehzadeh, M.**, Stockie, J. M., & MacPherson, A.  
   **An ecological model of masting reproduction matches empirical dynamics.**  
-  *Under review in Theoretical Eclogy*. [DOI: 10.64898/2026.09.02.748907]([https://doi.org/10.64898/2026.09.02.748907]) [bioRxiv Preprint]
+  *Under review in Theoretical Eclogy*. [DOI:10.64898/2026.09.02.748907]([https://doi.org/10.64898/2026.09.02.748907]) [bioRxiv Preprint]
+
+- **Salehzadeh, M.**, Stockie, J. M., & MacPherson, A.  
+  **Cyclic pathogen epidemics favour the evolution of delayed germination.**  
+  *Under review in Evolutionary Biology*. [DOI:XX]([https://doi.org/10.64898/2026.09.02.748907]) [bioRxiv Preprint]
